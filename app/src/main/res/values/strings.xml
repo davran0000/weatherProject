@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather.KG</string>
+    <string name="tab1">Ваше местоположение</string>
+    <string name="tab2">Выбрать город</string>
+    <string name="tab3">Найти</string>
+    <string name="gps_disabled_text">Пожалуйста включите геолокацию данных.</string>
+    <string name="gps_disabled_button">Включить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
